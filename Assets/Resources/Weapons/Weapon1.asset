@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Weapon1
   m_EditorClassIdentifier: 
   Name: Pistol
+  PrefabPath: Prefabs/Weapons/Weapon
   Damage: 10
   AmmoAmount: 80
   Price: 200

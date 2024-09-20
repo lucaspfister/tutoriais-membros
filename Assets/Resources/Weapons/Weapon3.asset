@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97764e931f368ef48ad769f5923f5472, type: 3}
   m_Name: Weapon3
   m_EditorClassIdentifier: 
-  Name: 
+  Name: Machinegun
+  PrefabPath: 
   Damage: 0
   AmmoAmount: 0
   Price: 0
